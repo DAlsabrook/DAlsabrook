@@ -20,4 +20,6 @@ I'm enrolled in the Atlas School, a 20-month program specializing in full stack 
 - [LinkedIn](https://www.linkedin.com/in/david-alsabrook/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's connect and collaborate on exciting projects! 🚀
-[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+
+### Streaks
+[![GitHub Streak](https://streak-stats.demolab.com?user=DAlsabrook&hide_border=true)](https://git.io/streak-stats)
