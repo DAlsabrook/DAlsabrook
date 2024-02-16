@@ -23,7 +23,7 @@ I'm enrolled in the Atlas School, a 20-month program specializing in full stack 
 
 ### 🌐 Connect with Me:
 
-- [LinkedIn](https://www.linkedin.com/in/david-alsabrook/)
+- [[LinkedIn](https://raw.githubusercontent.com/tandpfun/skill-icons/de91fca307a83d75fc5b1f6ce24540454acead41/icons/LinkedIn.svg)](https://www.linkedin.com/in/david-alsabrook/)
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's connect and collaborate on exciting projects! 🚀
 
