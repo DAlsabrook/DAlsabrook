@@ -13,7 +13,7 @@ I'm enrolled in the Atlas School, a 20-month program specializing in full stack 
 
 ### Languages:
 
-- Programming Languages: C#, C, Python
+- Programming Languages: C#, C, Python, MySQL
 
 ### Frameworks & Technologies: [List of Frameworks/Technologies]
 
