@@ -1,17 +1,23 @@
-### Hi there 👋
+# David Alsabrook
 
-<!--
-**DAlsabrook/DAlsabrook** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Welcome to My GitHub Profile!
 
-Here are some ideas to get you started:
+Hi there! I'm David, a passionate programmer based in Tulsa, OK! I thrive on solving complex problems, crafting innovative software solutions, and actively contributing to open-source projects. Currently, I am a student at the Atlas School in Tulsa, OK.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About Me
+
+I'm enrolled in the Atlas School, a 20-month program specializing in full stack web development. The program places a strong emphasis on peer learning and collaborative teamwork. I am dedicated to honing my skills, exploring new technologies, and engaging in meaningful projects.
+
+### Skills:
+
+- Programming Languages: C#, C, Python
+- Frameworks & Technologies: [List of Frameworks/Technologies]
+- Database: [List of Databases]
+- Tools & Platforms: Linux terminal, VSCode, Git, Docker
+
+### 🌐 Connect with Me:
+
+- [LinkedIn](https://www.linkedin.com/in/david-alsabrook/)
+
+Feel free to explore my repositories and don't hesitate to reach out. Let's connect and collaborate on exciting projects! 🚀
 [![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
