@@ -11,12 +11,15 @@ I'm enrolled in the Atlas School, a 20-month program specializing in full stack 
 ## Noteable Projects:
 - [Created a simple shell program](https://github.com/meddizzle316/holbertonschool-simple_shell)
 
-### Skills:
+### Languages:
 
 - Programming Languages: C#, C, Python
-- Frameworks & Technologies: [List of Frameworks/Technologies]
-- Database: [List of Databases]
-- Tools & Platforms: Linux terminal, VSCode, Git, Docker
+
+### Frameworks & Technologies: [List of Frameworks/Technologies]
+
+### Database: [List of Databases]
+
+### Tools & Platforms: Linux terminal, VSCode, Git, Docker
 
 ### 🌐 Connect with Me:
 
