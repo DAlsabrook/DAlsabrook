@@ -21,5 +21,5 @@ I'm enrolled in the Atlas School, a 20-month program specializing in full stack 
 
 Feel free to explore my repositories and don't hesitate to reach out. Let's connect and collaborate on exciting projects! 🚀
 
-### Streaks
+### Streaks:
 [![GitHub Streak](https://streak-stats.demolab.com?user=DAlsabrook&hide_border=true)](https://git.io/streak-stats)
